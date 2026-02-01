@@ -34,6 +34,8 @@ This project demonstrates **object-oriented programming (OOP)** concepts, includ
 
 ## 📷 Game Play
 
+<img width="520" height="387" alt="Screenshot 2026-02-01 at 17 48 47" src="https://github.com/user-attachments/assets/804c9295-e498-4e5b-bbbd-bf9be49df3da" />
+
 ---
 
 ## Installation
