@@ -1,24 +1,20 @@
-# Node / npm files (if any)
-node_modules/
-package-lock.json
-
-# MacOS system files
+# macOS system files
 .DS_Store
+._*
 
-# Windows system files
-Thumbs.db
-ehthumbs.db
+# Python cache files
+__pycache__/
+*.py[cod]
 
-# VS Code settings
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE/editor settings
 .vscode/
+.idea/
 
 # Logs
 *.log
 
-# Images folder (optional if you don’t want to track local test images)
-# images/
-
-# Backup files
-*.bak
-*.swp
-*.tmp
