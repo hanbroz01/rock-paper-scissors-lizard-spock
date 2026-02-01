@@ -1,0 +1,24 @@
+# Node / npm files (if any)
+node_modules/
+package-lock.json
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Images folder (optional if you don’t want to track local test images)
+# images/
+
+# Backup files
+*.bak
+*.swp
+*.tmp
